@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola que tal como va la tarde
+=======
+ahora dejas de estar aqui
+>>>>>>> bc3e199a32c63453e45595568381cab093c2d9cd
